@@ -62,11 +62,6 @@ namespace AK
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
   </a>
 </p>
-
-
-## <p align="center">Just a snake eating my contributions 🐍</p>
-<p align='center'>
-<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 <hr>
