@@ -42,7 +42,7 @@ namespace AK
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
   </a>
 	
-  <a href="https://www.linkedin.com/in/trananhkhoi/">
+  <a href="https://www.linkedin.com/in/khoitadev/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
   </a>
   
